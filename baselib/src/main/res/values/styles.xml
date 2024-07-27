@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="CheckBoxTheme" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="colorControlNormal">@color/color_black</item><!--选中颜色-->
+        <item name="colorAccent">@color/color_black</item><!--未选中颜色-->
+    </style>
+
+    <style name="CheckBoxTheme_main" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="colorControlNormal">@color/color_black</item><!--选中颜色-->
+        <item name="colorAccent">@color/main_color_line</item>
+    </style>
+
+</resources>

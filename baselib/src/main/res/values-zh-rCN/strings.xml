@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="update1m_s_tarde">Update</string>
+    <string name="update1actualizar_ahora">Update later</string>
+    <string name="inueva_actualizaci_n">New version update!</string>
+    <string name="v_xx_ya_est_disponible_para_actualizar">%1$s Now it can be updated</string>
+
+    <string name="app_name">KDS</string>
+    <string name="str_set_apk_name">KDS%1$s.apk</string>
+    <string name="latest_version">Currently, it is the latest version!</string>
+    <string name="start_download">Start downloading</string>
+    <string name="start_download_back">Entered background download</string>
+    <string name="start_download_hint">You can check the download progress later</string>
+    <string name="start_downloading">Updating</string>
+    <string name="download_completed">Download completed</string>
+    <string name="click_hint">Click to install</string>
+    <string name="download_error">Download error</string>
+    <string name="continue_downloading">Click to download again</string>
+    <string name="background_downloading">Updating…</string>
+    <string name="support_recycler_click_load_more" translatable="false">Load More...</string>
+    <string name="support_recycler_load_error" translatable="false">Load Error...</string>
+    <string name="support_recycler_data_empty" translatable="false">Data Empty...</string>
+    <string name="support_recycler_more_not" translatable="false">--end--</string>
+    <string name="common1str_notice">提示</string>
+    <string name="common1str_confirm">确定</string>
+    <string name="common1str_cancel">取消</string>
+    <string name="order1_detail1_str_order_details">Order details</string>
+</resources>

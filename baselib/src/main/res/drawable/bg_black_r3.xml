@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:ignore="MissingDefaultResource">
+
+    <stroke
+        android:width="@dimen/dp_1"
+        android:color="@color/transparent" />
+    <corners android:radius="@dimen/dp_7" />
+    <!-- 设置背景颜色 -->
+    <solid android:color="@color/color_black" />
+
+    <corners android:radius="@dimen/dp_3" />
+
+</shape>

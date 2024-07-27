@@ -28,3 +28,4 @@ dependencyResolutionManagement {
 rootProject.name = "ianlee-baselib"
 include(":app")
 include(":baselib")
+include(":autosize")

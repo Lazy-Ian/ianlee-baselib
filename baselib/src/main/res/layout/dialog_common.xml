@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.ianlee.lazy.base.lib.view.background.view.BLLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="400dp"
+    android:layout_height="wrap_content"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:paddingTop="@dimen/dp_18"
+    android:paddingBottom="@dimen/dp_18"
+    app:bl_corners_radius="20dp"
+    app:bl_solid_color="@color/color_white">
+
+    <TextView
+        android:id="@+id/tv_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/ali85"
+        android:text="@string/common1str_notice"
+        android:textColor="@color/text_dark_color"
+        android:textSize="@dimen/text_size_18" />
+
+    <TextView
+        android:id="@+id/tv_content"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="50dp"
+        android:layout_marginVertical="30dp"
+        android:fontFamily="@font/ali55"
+        android:gravity="center"
+        android:textColor="@color/text_dark_color"
+        android:textSize="@dimen/text_size_14" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="45dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/tv_cancel"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:fontFamily="@font/ali55"
+            android:gravity="center"
+            android:text="@string/common1str_cancel"
+
+            android:textColor="@color/text_dark_color"
+            android:textSize="@dimen/text_size_14" />
+
+        <TextView
+            android:id="@+id/tv_sure"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:fontFamily="@font/ali55"
+            android:gravity="center"
+            android:text="@string/common1str_confirm"
+            android:textColor="@color/color_blue_blue"
+            android:textSize="@dimen/text_size_14"
+            app:bl_corners_radius="150dp"
+            app:bl_solid_color="@color/color_white"
+            app:bl_stroke_color="#86909C"
+            app:bl_stroke_width="1dp" />
+    </LinearLayout>
+</com.ianlee.lazy.base.lib.view.background.view.BLLinearLayout>

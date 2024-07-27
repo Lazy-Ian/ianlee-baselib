@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_main_color">#FFC500</color>
+    <color name="navigation_bar_color">@color/color_gray</color>
+    <color name="color_black">#000000</color>
+    <color name="color_dark">#333333</color>
+    <color name="color_white">#ffffff</color>
+
+    <color name="color_f1f5f9">#F1F5F9</color>
+    <color name="colorAccent">#ff80cbc4</color>
+    <color name="color_e6e6e6">#e6e6e6</color>
+    <color name="color_orange">#FF5F05</color>
+    <color name="color_yellow">#FFCA0F</color>
+    <color name="color_white_80">#CCFFFFFF</color>
+    <!--    app_main_color-->
+    <color name="color_cyan_strong">#28A3B3</color>
+    <color name="color_cyan_light">#E9F6F7</color>
+    <color name="color_gray">#B3B3B3</color>
+    <color name="color_gray_a30">#4DB3B3B3</color>
+    <color name="color_gray_dark">#808080</color>
+    <color name="color_gray_light">#F6F6F6</color>
+
+    <color name="color_blue_dark">#413E6D</color>
+    <color name="color_dddddd">#dddddd</color>
+
+    <color name="main_color_line">#FFC500</color>
+    <color name="main_color_line_un">#99FFC500</color>
+
+    <color name="color_EBEBEB">#EBEBEB</color>
+    <color name="color_979797">#979797</color>
+    <color name="color_999999">#999999</color>
+    <color name="color_cccccc">#CCCCCC</color>
+    <color name="color_eee">#eeeeee</color>
+    <color name="color_red_strong">#BC0000</color>
+    <color name="color_red_light">#FF0000</color>
+    <color name="color_red_red">#FB1815</color>
+
+    <color name="color_blue_light">#E5F5FF</color>
+    <color name="color_blue_blue">#0999FF</color>
+
+    <color name="color_green">#72C749</color>
+    <color name="color_green_light">#F0F9EB</color>
+    <color name="color_green_dark">#4CAE20</color>
+
+    <color name="color_transparent">#00000000</color>
+    <color name="color_feature_orange">#ee9e01</color>
+
+    <color name="color_registration">#A17770</color>
+
+    <color name="verifyCodeLineDefault">#DBDBDB</color>
+    <color name="verifyCodeTextColor">@color/app_main_color</color>
+    <color name="fillColor">#6652ACCB</color>
+    <color name="menu_color">#d3daf0</color>
+    <color name="btn_color">#ADBBE3</color>
+    <color name="top_menu_color">#25376c</color>
+    <color name="color_ededed">#ededed</color>
+    <color name="color_99ededed">#99EDEDED</color>
+
+
+     <color name="text_main_color">#51696A</color>
+    <color name="text_main_color_">#FFC500</color>
+    <color name="text_dark_color">#222222</color>
+    <color name="text_color">#1D2129</color>
+    <color name="text_color_a5a6a9">#A5A6A9</color>
+    <color name="text_menu_color_selected">#3F5DB8</color>
+    <color name="text_menu_color">#86909C</color>
+    <color name="text_c5_color">#C5C5C5</color>
+    <color name="text_999_color">#999999</color>
+    <color name="text_red_color">#D61B1B</color>
+
+
+    <color name="transparent">#00000000</color>
+    <color name="act_bg">#EEEEEE</color>
+    <color name="text_5">#1D2129</color>
+    <color name="text_4">#4E5969</color>
+    <color name="text_3">#86909C</color>
+    <color name="text_2">#C9CDD4</color>
+    <color name="text_1">#ffffff</color>
+    <color name="fill_4">#C9CDD4</color>
+    <color name="fill_5">#C9CDD4</color>
+    <color name="fill_3">#E5E6EB</color>
+    <color name="fill_2">#F2F3F5</color>
+    <color name="fill_1">#F7F8FA</color>
+    <color name="p5">#1f7d2a</color>
+    <color name="p4">#31a23b</color>
+    <color name="p3">#9ec99d</color>
+    <color name="p2">#cad6c9</color>
+    <color name="p1">#d6e3d5</color>
+    <color name="w2">#D25F00</color>
+    <color name="w1">#FF7D00</color>
+    <color name="e2">#CB2634</color>
+    <color name="e1">#F53F3F</color>
+    <color name="color_line">#E5E6EB</color>
+    <color name="color_disable">#C9CDD4</color>
+
+    <color name="f2">#21A1A6</color>
+    <color name="f1">#33CCCC</color>
+    <color name="color_theme">#22D59D</color>
+
+</resources>
